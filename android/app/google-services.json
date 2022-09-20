@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44376215335",
+    "project_id": "attendanceappsena",
+    "storage_bucket": "attendanceappsena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44376215335:android:a2ce76d9ab14dad00f2302",
+        "android_client_info": {
+          "package_name": "com.example.senaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44376215335-83ti3kj6ego7r5hpa4ngh2evrclq7q3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhhCneBiLlsxfJ_GThsLnj_0nof89nkEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44376215335-83ti3kj6ego7r5hpa4ngh2evrclq7q3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
